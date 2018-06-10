@@ -34,3 +34,14 @@ body {
 	cursor: pointer;
 	border-width: 7px;
 }
+
+.clear {
+	text-align: center;
+}
+
+/*#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: left;
+    padding: 10px 0 10px 3%;
+} */
